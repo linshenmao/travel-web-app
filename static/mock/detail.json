@@ -1,0 +1,25 @@
+{
+  "ret": true,
+  "data": {
+    "sightName": "深圳出发-自由行 杭州赏花❀正当时",
+    "bannerImg": "https://img1.qunarzz.com/vs_ceph_vs_tts/135d78db-10df-4af6-a208-02ba5a0c9cbd.jpg_r_640x420x90_6b6484d6.jpg",
+    "gallaryImgs": ["https://img1.qunarzz.com/vs_ceph_vs_tts/96c01d30-7d7c-47c6-9e95-edf6e1f48122.jpg_r_1280x840x90_1232cac2.jpg", "https://img1.qunarzz.com/vs_ceph_vs_tts/0d94aed2-0ba1-461b-ad25-fee8e75f6d98.jpg_r_1280x840x90_992825d2.jpg"],
+    "categoryList": [{
+        "title": "成人票",
+        "children": [{
+          "title": "成人三馆联票",
+          "children": [{
+            "title": "成人三馆联票 - 某一连锁店销售"
+          }]
+        },{
+          "title": "成人五馆联票"
+        }]
+      }, {
+        "title": "学生票"
+      }, {
+        "title": "儿童票"
+      }, {
+        "title": "特惠票"
+      }]
+  }
+}
